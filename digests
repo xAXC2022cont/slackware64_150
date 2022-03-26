@@ -1,0 +1,4 @@
+e5241bddc1007f1902d05c56b1ae60fe  slackware64-live-15.0.iso
+
+[liveuser@localhost Downloads]$ sha256sum slackware64-live-15.0.iso.asc 
+2156fe2f724abc1dc0ebce686eb3cdd84ea1a3631950bed069616cda7f47c8a1  slackware64-live-15.0.iso.asc
